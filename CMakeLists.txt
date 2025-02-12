@@ -31,7 +31,7 @@ if(BUILD_TESTS)
     add_subdirectory(tests)
 endif()
 
-option(GENERATE_DEB OFF)
+option(GENERATE_DEB ON)
 message(STATUS "Generate DEB file = ${GENERATE_DEB}")
 if(GENERATE_DEB)
   set(CPACK_GENERATOR DEB)

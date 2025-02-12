@@ -1,6 +1,7 @@
 #pragma once
 #include <cstddef>
 
+/// Interface to handle user input
 struct IInput
 {
 	virtual ~IInput() = default;

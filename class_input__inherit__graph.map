@@ -1,0 +1,5 @@
+<map id="Input" name="Input">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,160,163,308"/>
+<area shape="rect" id="Node000002" href="$struct_i_input.html" title="Interface to handle user input." alt="" coords="47,5,121,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,127,87,161,82,161,82,127"/>
+</map>

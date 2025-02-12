@@ -1,0 +1,9 @@
+<map id="CmdProcessor" name="CmdProcessor">
+<area shape="rect" id="Node000001" title="Process commands." alt="" coords="159,251,277,419"/>
+<area shape="rect" id="Node000002" href="$class_i_cmd_processor.html" title="Interface for class that produces batches of commands." alt="" coords="5,5,134,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,184,170,250,166,253,125,187"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="158,49,277,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,130,220,234,215,234,215,130"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="301,56,455,122"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="362,123,296,229,288,240,284,237,292,226,357,121"/>
+</map>

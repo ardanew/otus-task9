@@ -1,0 +1,5 @@
+<map id="ICmdProcessor" name="ICmdProcessor">
+<area shape="rect" id="Node000001" title="Interface for class that produces batches of commands." alt="" coords="5,5,134,173"/>
+<area shape="rect" id="Node000002" href="$class_cmd_processor.html" title="Process commands." alt="" coords="11,221,129,430"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,188,72,221,67,221,67,188"/>
+</map>
